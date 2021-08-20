@@ -1,0 +1,32 @@
+{
+  "name": "tg-bot",
+  "version": "1.0.0",
+  "description": "tg-bot naebshik",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Laravelka/tg-bot.git"
+  },
+  "keywords": [
+    "tg",
+    "telegram",
+    "bot",
+    "bot",
+    "tg"
+  ],
+  "author": "Laravelka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Laravelka/tg-bot/issues"
+  },
+  "homepage": "https://github.com/Laravelka/tg-bot#readme",
+  "dependencies": {
+    "@puregram/hear": "^2.0.1-fix",
+    "@qiwi/bill-payments-node-js-sdk": "^3.2.1",
+    "moment": "^2.29.1",
+    "puregram": "^2.0.4-rc.2"
+  }
+}
